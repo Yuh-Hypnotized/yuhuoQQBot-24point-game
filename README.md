@@ -1,17 +1,19 @@
 # yuhuoQQBot-24point-game
-The **24-point** game! Generate 4 random numbers 1-12,  use them to structure a expression that equals to **24** with **+ - * / ()**.
+The **24-point** game! Generate 4 random numbers 1-12,  
+use them to structure a expression that equals to **24** with **+ - * / ()**.
 
 
 
-##Commands:  
+**Commands:**  
 /24 start - starts a 24-point game.  
 /24 answer <answer> - answer a 24-point game. (eg. /24 answer (11-9)*(5+7))  
->Note: Do NOT place blank space in your expression.  
+>Note: Do NOT place blank space in your expression.
+
 /24 ff - forfeit a 24-point game if you really don't know how to solve it.  
 /24 lb - displays the 24-point leaderboard of the certain group.  
 
 
-##It should work like this:
+**It should work like this:**
 
 
 ![image](https://github.com/user-attachments/assets/8870cb1c-d208-4c88-8a13-2d07cd5fec8c)

@@ -7,11 +7,12 @@ use them to structure a expression that equals to **24** with **+ - * / ()**.
 **Commands:**  
 /24 start - starts a 24-point game.  
 /24 answer <answer> - answer a 24-point game. (eg. /24 answer (11-9)*(5+7))  
->Note: Do NOT place blank space in your expression.
-
 /24 ff - forfeit a 24-point game if you really don't know how to solve it.  
 /24 lb - displays the 24-point leaderboard of the certain group.  
 
+**Notes:**  
+1. Do **NOT** place black space ' ' in your answer expression.  
+2. Do **NOT** use [] if you have multiple levels of brackets, just use ().  
 
 **It should work like this:**
 

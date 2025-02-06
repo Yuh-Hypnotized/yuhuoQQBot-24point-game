@@ -1,0 +1,10 @@
+{
+  "whitelistedGroupID" : [190784453,596096121,283851875],
+  "adminID" : [9955161],
+  "showRecallMsg" : true,
+  "_24pointStatus_inGame" : [],
+  "_24point_leaderBoard" : [{"userID": 9955161,"userPoints": 5},
+    {"userID": 2914745569,"userPoints": 1}, {"userID": 3271338329,"userPoints": 1},
+    {"userID": 166749934,"userPoints": 1},{"userID": 1610116146, "userPoints": 2},
+    {"userID": 252252, "userPoints": 1}]
+}

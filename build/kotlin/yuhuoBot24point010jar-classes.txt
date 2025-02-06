@@ -1,0 +1,1 @@
+E:\JAVA\yuhuoBot-24point\build\classes\java\main\com\example\Config.class;E:\JAVA\yuhuoBot-24point\build\classes\java\main\com\example\PluginMain.class;E:\JAVA\yuhuoBot-24point\build\classes\java\main\com\example\user_24point.class
